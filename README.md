@@ -1,7 +1,9 @@
 
-# Python3 Blockchain Demo
+# Blockchain Demo
 
-## Installation
+A demonstration of blockchain technology in Python3.
+
+## Dependencies
 Use `python3 -m pip install -r ./requirements.txt` to install the necessary python packages.
 
 ## Running
